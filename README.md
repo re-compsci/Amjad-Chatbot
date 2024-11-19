@@ -8,8 +8,5 @@ A chatbot would do that by analyzing their feelings, emotional needs,
 and problems according to their situation. 
 
 <br/>
-![WhatsApp Image 2024-11-19 at 09 49 41_7b881291](https://github.com/user-attachments/assets/6eecbdb0-0833-459c-aeae-61c7fd1ac536)
 
-
-
-
+![WhatsApp Image 2024-11-19 at 09 49 41_35f92493](https://github.com/user-attachments/assets/fdeaf8c7-58f3-4ad6-9add-cde55dea9124)
